@@ -1,0 +1,5 @@
+<view class="bg">
+</view>
+<view class="login_f">
+  <button class="login_btn" bindtap="login">Get Started</button>
+</view>

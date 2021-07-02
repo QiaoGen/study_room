@@ -1,0 +1,6 @@
+.mp-tabbar{
+  background-color: white;
+}
+.weui-tabbar__label{
+  color: rgb(0, 0, 0);
+}
